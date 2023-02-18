@@ -9,7 +9,7 @@ import { IArgs } from '../../Types'
     exp: 15,
     cooldown: 10,
     usage: 'sticker [caption/quote message containing media] [options] | <pack> | <author>',
-    aliases: ['s']
+    aliases: ['s--c']
 })
 export default class extends BaseCommand {
     public override execute = async (M: Message, { flags, context }: IArgs): Promise<void> => {
