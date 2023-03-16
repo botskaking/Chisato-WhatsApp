@@ -7,7 +7,7 @@ import { IArgs } from '../../Types'
     usage: 'chat hi',
     aliases: ['bot'],
     exp: 15,
-    cooldown: 3
+    cooldown: 1
 })
 export default class extends BaseCommand {
     public override execute = async (M: Message, { context }: IArgs): Promise<void> => {
