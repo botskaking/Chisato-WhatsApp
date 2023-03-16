@@ -4,8 +4,8 @@ import { BaseCommand, Command, Message } from '../../Structures'
     description: 'Sends a random neko image',
     category: 'weeb',
     usage: 'neko',
-    exp: 20,
-    cooldown: 5
+    exp: 200000,
+    cooldown: 1
 })
 export default class extends BaseCommand {
     public override execute = async ({ reply }: Message): Promise<void> => {
