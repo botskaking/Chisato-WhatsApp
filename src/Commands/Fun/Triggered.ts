@@ -4,10 +4,10 @@ import { Command, Message, BaseCommand } from '../../Structures'
 
 @Command('triggered', {
     description: 'Makes a triggered gif of the tagged/quoted user or the provided/quoted image',
-    cooldown: 10,
+    cooldown: 1,
     usage: 'triggered [tag/quote user or caption/quote image]',
     category: 'fun',
-    exp: 2500,
+    exp: 25000,
     aliases: ['trigger']
 })
 export default class extends BaseCommand {
