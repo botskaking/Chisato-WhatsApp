@@ -5,7 +5,7 @@ import { BaseCommand, Command, Message } from '../../Structures'
     category: 'general',
     usage: 'hi',
     aliases: ['hello'],
-    exp: 95000000,
+    exp: 25,
     cooldown: 1
 })
 export default class extends BaseCommand {
