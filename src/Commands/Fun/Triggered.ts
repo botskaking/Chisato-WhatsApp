@@ -7,7 +7,7 @@ import { Command, Message, BaseCommand } from '../../Structures'
     cooldown: 10,
     usage: 'triggered [tag/quote user or caption/quote image]',
     category: 'fun',
-    exp: 25,
+    exp: 2500,
     aliases: ['trigger']
 })
 export default class extends BaseCommand {
