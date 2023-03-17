@@ -6,7 +6,7 @@ import { IArgs } from '../../Types'
     category: 'fun',
     usage: 'chat hi',
     aliases: ['bot'],
-    exp: 27,
+    exp: 25,
     cooldown: 1
 })
 export default class extends BaseCommand {
