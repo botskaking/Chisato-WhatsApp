@@ -1,5 +1,5 @@
 {
-  "name": "Hitman47",
+  "name": "Chisato",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
   "keywords": [
     "bot",
@@ -8,8 +8,8 @@
     "whatsapp-anime-bot"
   ],
   "logo": "https://raw.githubusercontent.com/Dkhitman3/Hitman47/master/assets/images/hitman.png",
-  "website": "https://github.com/Dkhitman3/Bot#readme",
-  "repository": "https://github.com/Dkhitman3/Hitman47.git",
+  "website": "https://github.com/botskaking/Chisato-WhatsApp#readme",
+  "repository": https://github.com/botskaking/Chisato-WhatsApp.git",
   "success_url": "/",
   "env": {
     "BOT_NAME": {
