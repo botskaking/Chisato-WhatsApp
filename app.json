@@ -9,7 +9,7 @@
   ],
   "logo": "https://raw.githubusercontent.com/Dkhitman3/Hitman47/master/assets/images/hitman.png",
   "website": "https://github.com/botskaking/Chisato-WhatsApp#readme",
-  "repository": https://github.com/botskaking/Chisato-WhatsApp.git",
+  "repository": "https://github.com/botskaking/Chisato-WhatsApp.git",
   "success_url": "/",
   "env": {
     "BOT_NAME": {
